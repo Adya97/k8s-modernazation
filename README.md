@@ -1,7 +1,3 @@
-Here’s a draft README.md for your repository, referencing the screenshots in the Documention directory:
-
----
-
 # k8s-modernazation
 
 This repository provides resources and code for modernizing Kubernetes workflows, primarily using Python and containerization with Docker. It demonstrates implementation steps and important concepts with supporting screenshots.
